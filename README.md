@@ -30,3 +30,6 @@ Voici la liste des documents disponibles dans ce dépôt, avec leurs description
 
 6. **[Reporting PoC MedHead](./Reporting-PoC-MedHead.pdf)**  
    Rapport complet contenant les résultats des tests, l'analyse des points forts/limites, et les recommandations pour les évolutions futures.
+
+7. **[Complément_TechniqueV1.0.x](./Complément_TechniqueV1.0.x.pdf)**
+   Ce document vise à harmoniser la technologie aux recommandations du rapport, tout en incluant la logique de sécurisation et les évolutions nécessaires identifiées dans la PoC.
